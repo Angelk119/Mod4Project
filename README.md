@@ -75,3 +75,7 @@ Key stakeholders:
 - **Recommendation:** Iterate with a longer test window or controlled experiment before scaling decisions.  
 
 ---
+
+## Slide Deck
+
+[Press](/Deck) → for slides
