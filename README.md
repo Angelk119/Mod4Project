@@ -25,6 +25,22 @@ Key stakeholders:
 
 ---
 
+## Visual Summary
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/235a5f03-3278-4fda-9ff8-a09c5552f307" alt="Hourly ridership pattern" width="500"/>
+  <br>
+  <em>Figure 1. Average hourly rides by working vs non-working day</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4809495-fffd-4a8f-85ac-5a7df0b0b59a" alt="Pre vs Post commuter rides" width="500"/>
+  <br>
+  <em>Figure 2. Pre vs Post launch average rides during 17:00–19:00 (good weather, working days)</em>
+</p>
+
+---
+
 ## Top 3 Trends & Insights
 1. **Evening commuter rides are strongly concentrated at 8 AM and 5–6 PM peaks.**  
    → Confirms product focus on evening commuter slots is well-placed.  
